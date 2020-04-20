@@ -1,2 +1,0 @@
-def turn(board)
-end
