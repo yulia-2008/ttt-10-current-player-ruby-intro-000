@@ -8,4 +8,5 @@ end
 count
 end 
 
-current_player
+def current_player(board)
+if count%2=0 
